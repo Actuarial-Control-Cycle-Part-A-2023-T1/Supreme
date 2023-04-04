@@ -35,17 +35,13 @@ Proactive relocation areas of support (Appendix A) will also be provided through
 
 <br> <ins> Deterring involuntary displacement:</ins> </br> 
 Consider two families that own properties valued at Ꝕ100,000. Family A are proactive relocators hence they will be able to purchase a home without having to replace any household items (40-75% of housing cost) nor will they be subjected to surges in labour and building costs (which are capped at 50% by law). 
-However, Family B refuse to relocate, despite warnings of extreme weather events. 
+However, Family B refuse to relocate, despite warnings of extreme weather events.  
 <br> The potential costs are: </br>
-![image](https://user-images.githubusercontent.com/73229567/229331758-7d661d55-00fb-46c5-b9b2-611a8d190a33.png)
+![image](https://user-images.githubusercontent.com/113488523/229778142-6464b261-aeba-493c-bb36-8a9b1e528c13.png)
 
-Assuming individuals rebuild new properties of the same value as the original residence, involuntary displacement costs are 1.4-2.25 times greater than proactive relocation costs. To reflect the risk of (self-imposed) increased losses, the program will provide a subsidy of up to 50% of the original value of impacted
-residential properties (Figure 1) in high and medium-risk areas, provided that relocation is necessary. This implies that involuntary relocators may face financial losses upwards of 90% upon rebuilding their new homes. Alternatively, should relocators choose to proactively migrate from a high to low-risk area, the program will subsidies the new property at a predetermined rate (Figure 1), 
-which results in a much smaller financial loss to the individual; they will gain an extra benefit of 10% as well as avoiding additional costs from supply disruptions compared with involuntary relocation. Furthermore, this subsidised plan will be extended to individuals seeking to proactively relocate from medium to low-risk areas, however, 
-the subsidised rate will only be up to 30% as the risk of being affected by a catastrophic event is lower. 
+Assuming individuals rebuild new properties of the same value as the original residence, involuntary displacement costs are 1.4-2.25 times greater than proactive relocation costs. To reflect the risk of (self-imposed) increased losses, the program will provide a subsidy of up to 50% of the original value of impacted residential properties (Figure 1) in high and medium-risk areas, provided that relocation is necessary. This implies that involuntary relocators may face financial losses upwards of 90% upon rebuilding their new homes. Alternatively, should relocators choose to proactively migrate from a high to low-risk area, the program will subsidies the new property at a predetermined rate (Figure 1), which results in a much smaller financial loss to the individual; they will gain an extra benefit of 10% as well as avoiding additional costs from supply disruptions compared with involuntary relocation. Furthermore, this subsidised plan will be extended to individuals seeking to proactively relocate from medium to low-risk areas, however, the subsidised rate will only be up to 30% as the risk of being affected by a catastrophic event is lower. 
 <br>
-No subsidy will be awarded to individuals in low-risk areas. The difference in subsidy rates between high-risk and medium-risk residencies is also set to priorities high-risk areas, 
-which are at far greater risk of mass displacement and incur the greatest costs to the economy. Over time, these subsidy rates will be continually monitored and reassessed based on future cost projection as well as high-risk population projections; when most high-risk residents have relocated, then more emphasis will be placed on medium-risk candidates.
+No subsidy will be awarded to individuals in low-risk areas. The difference in subsidy rates between high-risk and medium-risk residencies is also set to priorities high-risk areas, which are at far greater risk of mass displacement and incur the greatest costs to the economy. Over time, these subsidy rates will be continually monitored and reassessed based on future cost projection as well as high-risk population projections; when most high-risk residents have relocated, then more emphasis will be placed on medium-risk candidates. 
 If high and medium-risk proactive relocation were to be incentivised simultaneously then that would lead to mass relocation, 
 which this scheme is actively avoiding.
 </br>
@@ -56,6 +52,9 @@ Note that properties valued at Ꝕ1,500,000 or more make up approximately 1.12% 
 
 <br> <ins> Claim requirements: </br> </ins> 
 The government must verify whether the individual/family is currently and permanently residing in a high or medium-risk area (must supply proof of minimum one year within that locale). The events covered under this scheme, based on historical occurrences, are:
+| Hazard Events |
+|---|---|---|---|
+|Flooding|Cyclones|Hurricanes|Stroms|
 
 <br> Claims for individuals/families will only be paid once per lifetime. That is, married and de facto couples are only eligible for the new purchase of one new property together under this scheme. In addition, claims will be assessed and prioritised to provide immediate assistance to the worst-impacted property owners. See Appendix A for claim processing times. Furthermore, individuals owning multiple properties (such as landlords) will only be able to make one claim for one property in a lifetime, regardless of whether it is an investment property or a personal home. </br>
 
