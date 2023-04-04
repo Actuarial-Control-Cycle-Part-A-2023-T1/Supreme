@@ -51,10 +51,11 @@ Figure 1 illustrates varying subsidy rate according to the value of the original
 Note that properties valued at Ꝕ1,500,000 or more make up approximately 1.12% of the housing market (Appendix A) yet these residential properties ought to be accounted for by the scheme as catastrophic events affect the entire population regardless of socio-economic backgrounds. On the other hand, this program must be designed to alleviate the strain of financial losses on the economy, and the greatest losses impact individuals from low to mid socio-economic backgrounds. Hence, subsidies for proactive relocators with properties valued at Ꝕ1,500,000 or more are capped at 30% of Ꝕ1,500,000, or Ꝕ450,000, for high risk. 
 
 <br> <ins> Claim requirements: </br> </ins> 
-The government must verify whether the individual/family is currently and permanently residing in a high or medium-risk area (must supply proof of minimum one year within that locale). The events covered under this scheme, based on historical occurrences, are:
-| Hazard Events |
-|---|---|---|---|
-|Flooding|Cyclones|Hurricanes|Stroms|
+The government must verify whether the individual/family is currently and permanently residing in a high or medium-risk area (must supply proof of minimum one year within that locale). The events covered under this scheme, based on historical occurrences, are: 
+| Hazard Events | 
+| -------- | -------- | -------- | -------- |
+| Flooding | Cyclones | Hurricanes | Storms | 
+| Hail Damage | Lightning | Wildfire | Coastal Damage |  
 
 <br> Claims for individuals/families will only be paid once per lifetime. That is, married and de facto couples are only eligible for the new purchase of one new property together under this scheme. In addition, claims will be assessed and prioritised to provide immediate assistance to the worst-impacted property owners. See Appendix A for claim processing times. Furthermore, individuals owning multiple properties (such as landlords) will only be able to make one claim for one property in a lifetime, regardless of whether it is an investment property or a personal home. </br>
 
