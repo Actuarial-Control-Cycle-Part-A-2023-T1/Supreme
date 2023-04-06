@@ -52,10 +52,14 @@ Note that properties valued at Ꝕ1,500,000 or more make up approximately 1.12% 
 
 <br> <ins> Claim requirements: </br> </ins> 
 The government must verify whether the individual/family is currently and permanently residing in a high or medium-risk area (must supply proof of minimum one year within that locale). The events covered under this scheme, based on historical occurrences, are: 
-| Hazard Events | 
-| -------- | -------- | -------- | -------- |
-| Flooding | Cyclones | Hurricanes | Storms | 
-| Hail Damage | Lightning | Wildfire | Coastal Damage |  
+  * Flooding
+  * Cyclones
+  * Hurricanes
+  * Storms
+  * Hail Damage
+  * Lightning
+  * Wildfire
+  * Coastal Damage  
 
 <br> Claims for individuals/families will only be paid once per lifetime. That is, married and de facto couples are only eligible for the new purchase of one new property together under this scheme. In addition, claims will be assessed and prioritised to provide immediate assistance to the worst-impacted property owners. See Appendix A for claim processing times. Furthermore, individuals owning multiple properties (such as landlords) will only be able to make one claim for one property in a lifetime, regardless of whether it is an investment property or a personal home. </br>
 
