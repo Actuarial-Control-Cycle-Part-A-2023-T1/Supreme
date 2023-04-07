@@ -187,4 +187,4 @@ The following data limitations were encountered:
 | It is also uncertain whether property damage amounts related solely to the severity of the catastrophic event or whether it also related to density of populations. E.g., An equally severe event may result in greater damages to property in more dense areas compared to when populations are more scattered. | 
 
 ---
-*R code* can be found [here](/prelim)
+R code can be found *[here](/prelim)*
