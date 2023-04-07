@@ -1,0 +1,107 @@
+---
+title: "Prelim Clustering"
+author: "Supreme"
+output: 
+  html_document:
+    toc: true
+    theme: united
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Home](/ACTL4001-Supreme) | [Next R Code](/ACTL4001-Supreme/gof)
+
+```{r, warning=F, message=F, echo=F, eval=TRUE}
+rm(list = ls())
+graphics.off()
+cat("\f")
+```
+
+Initially we try to cluster the hazards based on it's event and the damages it brought.  
+```{r, warning=FALSE, message=FALSE}
+# Setting up the environment, load the necessary packages
+library(cluster)
+library(dplyr)
+library(factoextra)
+library(ggplot2)
+library(readr)
+library(stringi)
+library(tidyverse)
+```
+
+### Load the data
+```{r, eval=TRUE} 
+load(file = "hazards.RData")
+glimpse(hazards)
+```
+### Data Cleaning  
+
+* Change the `Region` column from integer to character  
+  
+* Filter event that has impact, identified from:  
+  
+  + Property damage > 0 or  
+    
+  + Injuries > 0 or  
+    
+  + Fatalities > 0  
+```{r}
+hazards$Region = as.character(hazards$Region)
+hazards = hazards %>%
+  filter(hazards$Property.Damage > 0 | hazards$Injuries > 0 | hazards$Fatalities > 0)
+glimpse(hazards)
+head(hazards, 5)
+```
+#### _Additional Steps_
+```{r}
+# combine anything with flooding & costal 
+# combine storm/hail/wind/lightening as they represent extreme weather conditions cause meteorological hazards.
+for (i in 1:nrow(hazards)) {
+  if (stri_detect_fixed(hazards[i,"Hazard.Event"], "Hurricane") == TRUE ) {
+    hazards[i,"Hazard.Event"] = "Hurricane" 
+  } else if ( stri_detect_fixed(hazards[i,"Hazard.Event"], "Coastal") == TRUE ) {
+    hazards[i,"Hazard.Event"] = "Coastal" 
+  } else if (stri_detect_fixed((hazards[i,"Hazard.Event"]), "Flooding") == TRUE){
+    hazards[i,"Hazard.Event"] = "Flooding" 
+  } else if (stri_detect_fixed((hazards[i,"Hazard.Event"]), "Storm") == TRUE || 
+             stri_detect_fixed((hazards[i,"Hazard.Event"]), "Hail") == TRUE ||
+             stri_detect_fixed((hazards[i,"Hazard.Event"]), "Wind") == TRUE ||
+             stri_detect_fixed((hazards[i,"Hazard.Event"]), "Lightning") == TRUE  ||
+             stri_detect_fixed((hazards[i,"Hazard.Event"]), "Winter Weather") == TRUE){
+    hazards[i,"Hazard.Event"] = "Severe Weather" 
+  } else if (stri_detect_fixed((hazards[i,"Hazard.Event"]), "Drought") == TRUE || 
+             stri_detect_fixed((hazards[i,"Hazard.Event"]), "Heat") == TRUE) {
+             hazards[i,"Hazard.Event"] = "Drought/Heat" 
+  }
+}
+
+# removed year and region columns to evaluate the historical event's clustering regardless of time and place
+hazards.agg <- hazards %>%
+  dplyr::select(-c(Year, Region))
+
+hazards.agg2 =  hazards.agg %>% 
+  group_by(Hazard.Event) %>% 
+  summarize(Property.Damage.agg = sum(Property.Damage), 
+         Injuries.agg = sum(Injuries),Fatalities.agg = sum(Fatalities),
+         Freq = n()) %>%
+  mutate(Property.Damage.avg = Property.Damage.agg/Freq , 
+         Injuries.avg = Injuries.agg/Freq,Fatalities.avg =Fatalities.agg/Freq) %>%
+  remove_rownames %>% column_to_rownames(var="Hazard.Event")
+
+# drop fog/landslide due to its scarcity 
+hazards.agg2 = hazards.agg2[!(row.names(hazards.agg2) %in% c("Fog","Landslide")),]
+```
+**Event's clustering via kmeans**
+```{r}
+df = scale(hazards.agg2)
+k4 <- kmeans(df[,c("Property.Damage.avg", "Fatalities.avg","Injuries.avg","Freq")], centers = 3)
+
+distance <- get_dist(df)
+```
+```{r, echo=FALSE}
+fviz_cluster(k4, df, geom = "text")
+```
+
+[Home](/ACTL4001-Supreme) | [Next R Code](/ACTL4001-Supreme/Trial-2)
