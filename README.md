@@ -36,10 +36,10 @@ Proactive relocation areas of support will also be provided through government a
 | Access to living accommodations|
 
 
-<br> <ins> Deterring involuntary displacement:</ins> </br> 
+<br> <ins> Deterring involuntary displacement:</ins>
 Consider two families that own properties valued at Ꝕ100,000. Family A are proactive relocators hence they will be able to purchase a home without having to replace any household items (40-75% of housing cost) nor will they be subjected to surges in labour and building costs (which are capped at 50% by law). 
 However, Family B refuse to relocate, despite warnings of extreme weather events.  
-<br> The potential costs are: </br>
+<br> The potential costs are:
 ![image](https://user-images.githubusercontent.com/113488523/229778142-6464b261-aeba-493c-bb36-8a9b1e528c13.png)
 
 Assuming individuals rebuild new properties of the same value as the original residence, involuntary displacement costs are 1.4-2.25 times greater than proactive relocation costs. To reflect the risk of (self-imposed) increased losses, the program will provide a subsidy of up to 50% of the original value of impacted residential properties (Figure 1) in high and medium-risk areas, provided that relocation is necessary. This implies that involuntary relocators may face financial losses upwards of 90% upon rebuilding their new homes. Alternatively, should relocators choose to proactively migrate from a high to low-risk area, the program will subsidies the new property at a predetermined rate (Figure 1), which results in a much smaller financial loss to the individual; they will gain an extra benefit of 10% as well as avoiding additional costs from supply disruptions compared with involuntary relocation. Furthermore, this subsidised plan will be extended to individuals seeking to proactively relocate from medium to low-risk areas, however, the subsidised rate will only be up to 30% as the risk of being affected by a catastrophic event is lower.  
@@ -47,14 +47,14 @@ Assuming individuals rebuild new properties of the same value as the original re
 No subsidy will be awarded to individuals in low-risk areas. The difference in subsidy rates between high-risk and medium-risk residencies is also set to priorities high-risk areas, which are at far greater risk of mass displacement and incur the greatest costs to the economy. Over time, these subsidy rates will be continually monitored and reassessed based on future cost projection as well as high-risk population projections; when most high-risk residents have relocated, then more emphasis will be placed on medium-risk candidates. 
 If high and medium-risk proactive relocation were to be incentivised simultaneously then that would lead to mass relocation, 
 which this scheme is actively avoiding.
-</br>
+
 Figure 1 illustrates varying subsidy rate according to the value of the original property damaged by a catastrophic event:
 ![image](https://user-images.githubusercontent.com/73229567/229705571-7c4a4f2f-69ad-4356-a418-f55b87cd96f0.png)  
 Note that properties valued at Ꝕ1,500,000 or more make up approximately 1.12% (as shown in table below) of the housing market yet these residential properties ought to be accounted for by the scheme as catastrophic events affect the entire population regardless of socio-economic backgrounds. On the other hand, this program must be designed to alleviate the strain of financial losses on the economy, and the greatest losses impact individuals from low to mid socio-economic backgrounds. Hence, subsidies for proactive relocators with properties valued at Ꝕ1,500,000 or more are capped at 30% of Ꝕ1,500,000, or Ꝕ450,000, for high risk. 
 
 Proportion of population based on property value:  
 ![image](https://user-images.githubusercontent.com/113488523/230377605-eed9a288-3946-4930-9359-1d67b848dad3.png)  
-<br> <ins> Claim requirements: </br> </ins> 
+<br> <ins> Claim requirements:  </ins> 
 The government must verify whether the individual/family is currently and permanently residing in a high or medium-risk area (must supply proof of minimum one year within that locale). The events covered under this scheme, based on historical occurrences, are: 
   * Flooding
   * Cyclones
@@ -85,7 +85,7 @@ Claims for proactive relocators in high-risk areas may take between 1-3 months t
 
 Claims for individuals/families will only be paid once per lifetime. That is, married and de facto couples are only eligible for the new purchase of one new property together under this scheme. In addition, claims will be assessed and prioritised to provide immediate assistance to the worst-impacted property owners. Furthermore, individuals owning multiple properties (such as landlords) will only be able to make one claim for one property in a lifetime, regardless of whether it is an investment property or a personal home.  
 
-<br> <ins> Limitations of coverage: </br> </ins> 
+<br> <ins> Limitations of coverage: </ins> 
 
 | Limitation of coverage  |
 |---|
@@ -98,23 +98,23 @@ Claims for individuals/families will only be paid once per lifetime. That is, ma
 This program aims to provide financial aid to the group of people who are at a higher risk of being displaced due to a mass event. The program will cover both owner-occupied households and landlords of residential properties who are legal adults and living in areas categorized as high or medium risk. The program will undergo yearly evaluations in the short-term to ensure it meets solvency requirements by analysing its annual costs and comparing them with the annual GDP figures. Additionally, the program will undergo a long-term evaluation every ten years to ensure its effectiveness and solvency as the impact of climate change worsens.
 
 ## Program Costs
-<br> In this section, we compare the projected economic costs for Storslysia with and without the social insurance program in a short term (1 year) and long term (10 years) period. The projected costs incorporate inflation and climate change. Additionally, the economic cost with the program will need to satisfy the solvency requirement – not exceeding the 10% of the GDP each year, with a high degree of certainty.</br> 
-<br> Each citizen would be provided with a letter notifying them of the risk level of the region in which they reside, documented in the table below:</br>
+<br> In this section, we compare the projected economic costs for Storslysia with and without the social insurance program in a short term (1 year) and long term (10 years) period. The projected costs incorporate inflation and climate change. Additionally, the economic cost with the program will need to satisfy the solvency requirement – not exceeding the 10% of the GDP each year, with a high degree of certainty.
+<br> Each citizen would be provided with a letter notifying them of the risk level of the region in which they reside, documented in the table below:
 ![image](https://user-images.githubusercontent.com/73229567/229707343-8925db29-b96b-47e3-9fa6-f442767bdbd7.png)   
 Residents who live in regions 2 and 3 are given the priority to relocate in the event of a potential catastrophe. They are given a period of 3 months from the time of notification to relocate to a low-risk area (region 5 or 6). 
 
 I) Storslysia costs to the Social Insurance Program:
-![image](https://user-images.githubusercontent.com/73229567/229707687-082edcaa-bb74-4b42-934d-565252b1ab4a.png)
-<br> The values above project the absolute maximum costs covered by the task force. That is, maximum costs to pay out to individuals under any conditions would be to enable 100% of high-risk populations to proactively relocate (at rates between 30-60%, in Figure 1), and for 100% of medium-risk population to be paid out as involuntary relocators (at rates between 20-50% as opposed to 10-30%). This is an overestimation of costs to ascertain with a high degree of certainty that the program will remain solvent. Note that historical costs in projections have been compounded to account for inflation; whilst inflation may not necessarily reflect the real property damage changes over time, there is greater certainty that the program remains solvent when overestimating the losses. </br>
+![image](https://user-images.githubusercontent.com/73229567/229707687-082edcaa-bb74-4b42-934d-565252b1ab4a.png)l
+<br> The values above project the absolute maximum costs covered by the task force. That is, maximum costs to pay out to individuals under any conditions would be to enable 100% of high-risk populations to proactively relocate (at rates between 30-60%, in Figure 1), and for 100% of medium-risk population to be paid out as involuntary relocators (at rates between 20-50% as opposed to 10-30%). This is an overestimation of costs to ascertain with a high degree of certainty that the program will remain solvent. Note that historical costs in projections have been compounded to account for inflation; whilst inflation may not necessarily reflect the real property damage changes over time, there is greater certainty that the program remains solvent when overestimating the losses. 
 
-<br> At a 95% confidence level, the total short-term costs to be paid out across all regions, which is the required economic capital required for this scheme to remain solvent for one year period, is Ꝕ1,217,365,372. For reference, this is just 0.0921% of the 2021 GDP. Thus, the scheme is guaranteed to remain solvent.</br>
+<br> At a 95% confidence level, the total short-term costs to be paid out across all regions, which is the required economic capital required for this scheme to remain solvent for one year period, is Ꝕ1,217,365,372. For reference, this is just 0.0921% of the 2021 GDP. Thus, the scheme is guaranteed to remain solvent.
 
 II) Storslysia costs to the individuals without the Social Insurance Program:
 
 ![image](https://user-images.githubusercontent.com/73229567/229708175-9b860eea-6fad-42ab-9619-3346fc7b6241.png)
-<br> The values above estimate property damage costs to the residents, whereby models for severity  and frequency   of events were generated by fitting historical hazards data. Whilst the program costs under (I) overestimate the financial impact of the program, these costs under (II) provide a more realistic view of future catastrophic event impacts. Comparing (I) and (II) for regions 1 and 4 (medium-risk areas), (II) values are higher, which implies that in medium-risk areas we may expect the program to cover a large portion of relocation costs, however, it is unavoidable that individuals will also suffer some loss until subsidy rates for these regions are raised (as discussed in the program design). Comparing (I) and (II) for regions 2 and 3 (high-risk areas), (I) values are higher, which implies that costs paid out to these regions are overestimated compared with what the residents may realistically pay so, overall, this program will ensure a much smaller portion of costs will fall unto these high-risk residents. </br> 
+<br> The values above estimate property damage costs to the residents, whereby models for severity  and frequency   of events were generated by fitting historical hazards data. Whilst the program costs under (I) overestimate the financial impact of the program, these costs under (II) provide a more realistic view of future catastrophic event impacts. Comparing (I) and (II) for regions 1 and 4 (medium-risk areas), (II) values are higher, which implies that in medium-risk areas we may expect the program to cover a large portion of relocation costs, however, it is unavoidable that individuals will also suffer some loss until subsidy rates for these regions are raised (as discussed in the program design). Comparing (I) and (II) for regions 2 and 3 (high-risk areas), (I) values are higher, which implies that costs paid out to these regions are overestimated compared with what the residents may realistically pay so, overall, this program will ensure a much smaller portion of costs will fall unto these high-risk residents. 
 
-<br> <ins> Individual cost comparison with/without the program </br> </ins>
+<br> <ins> Individual cost comparison with/without the program  </ins>
 Assume that everyone whose property (property value < Ꝕ300,000) is damaged will pay $H for housing. The material and labour costs will increase m% after weather events. The cost of replacing household goods takes g% of housing costs. (The detailed percentage coverage can be found in Figure1) 
 ![image](https://user-images.githubusercontent.com/73229567/229708757-1dfc13f9-2945-46b8-953e-12a02a1ae38a.png)
 
@@ -131,7 +131,7 @@ Assume that everyone whose property (property value < Ꝕ300,000) is damaged wil
 * Individuals’ current property values indicate the financial standing of the individuals.
 * Short term period is 1 year, and long-term period is 10 years.
 
-<br>In estimating the overall cost under the program:</br>
+<br>In estimating the overall cost under the program:
 * The losses incurred due to property damages will be calculated based on two different assumptions: Negative Binomial distribution for the frequency of damages, and Gamma distribution for the severity (log of loss amount) of the damages. 
 * The material and labour cost increase are randomly distributed from a uniform distribution of [0,50%]
 * The overall cost of replacing household goods is randomly distributed from a uniform distribution of [40% ,75%] of housing costs.
@@ -148,9 +148,9 @@ Assume that everyone whose property (property value < Ꝕ300,000) is damaged wil
 
 |Scenario | Definition|
 | ------------- | ------------- |
-| Favourable| All population are not willing to relocate in the high-risk area, <br>All population are willing to relocate in the medium-risk area.</br> |
-| Average  | Half population are willing to relocate in the high-risk area, <br>Half population are willing to relocate in the medium-risk area.</br> |
-| Unfavourable   | All population are willing to relocate in the high-risk area, <br>All population are not willing to relocate in the medium-risk area.</br>|
+| Favourable| All population are not willing to relocate in the high-risk area, <br>All population are willing to relocate in the medium-risk area. |
+| Average  | Half population are willing to relocate in the high-risk area, <br>Half population are willing to relocate in the medium-risk area.|
+| Unfavourable   | All population are willing to relocate in the high-risk area, <br>All population are not willing to relocate in the medium-risk area.|
 
 Assume that the cost for the program under favourable scenario is C. (Detailed simulation results could be found in the Appendix)
 
@@ -160,8 +160,8 @@ Assume that the cost for the program under favourable scenario is C. (Detailed s
 |  Average  | 1.2C  |
 | Unfavourable | 1.35C |
 
-<br>The program is less sensitive against the unfavourable scenario, which will be beneficial in face of adverse events to help the program remain solvent.</br>
-<br><ins> Sensitivity against the assumption for the percentage coverage: </br></ins>
+<br>The program is less sensitive against the unfavourable scenario, which will be beneficial in face of adverse events to help the program remain solvent.
+<br><ins> Sensitivity against the assumption for the percentage coverage: </ins>
 * current coverafe : please refer to Figure 1
 * Favourable Scenario : 20% decrease in the coverage 
 * Unfavourable Scenario: 20% increase in the percentage coverage  
