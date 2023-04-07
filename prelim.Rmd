@@ -104,4 +104,4 @@ distance <- get_dist(df)
 fviz_cluster(k4, df, geom = "text")
 ```
 
-[Home](/ACTL4001-Supreme) | [Next R Code](/ACTL4001-Supreme/Trial-2)
+[Home](/ACTL4001-Supreme) | [Next R Code](/ACTL4001-Supreme/gof)
