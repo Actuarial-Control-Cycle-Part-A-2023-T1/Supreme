@@ -12,6 +12,7 @@ incentivising proactive relocation from high-risk areas to low-medium risk areas
 our design encompasses suggestions for deterring individuals from living in high-risk areas. 
 
 Table 1 lists the indication of program success:
+
 | Metric | Reporting schedule | Indication of success|
 | ------------- | ------------- |  ------------- |
 | Metric 1: <br> Ratio of accumulated year to date (YTD) relocation costs as a point estimate to GDP as recorded YTD. </br>| This metric will be reported quarterly, as new figures of the country’s GDP emerge. Data from relocation costs will be collected quarterly at the same time as GDP figures. | The program is successful if metric 1 does not exceed 0.1 at year end, even if metric 2 fails. Due to the unexpected nature of these catastrophic events, if the ratio exceeds 0.1 at year end, refer to metric 2. |
@@ -20,12 +21,14 @@ Table 1 lists the indication of program success:
 
 ## Program Design
 The program encompasses the proactive and reactive relocation of citizens and permanent residents owning residential properties of Storslysia. All citizens registered in the national census will be issued with a letter stating whether they are located within a low, medium, or high-risk area: 
+
 |   |
 |---|
 | Individuals from high-risk areas who wish to relocate will be prioritised over those in medium risk areas.| 
 | Individuals from high-risk areas who do not seek to relocate within three months of this letter being issued will be classified as “involuntary relocators”.|
 
 Proactive relocation areas of support will also be provided through government agencies, however many of these are external to the program. These include, but are not limited to:
+
 |   |
 |---|
 | Safety and security during the displacement | 
@@ -83,6 +86,7 @@ Claims for proactive relocators in high-risk areas may take between 1-3 months t
 Claims for individuals/families will only be paid once per lifetime. That is, married and de facto couples are only eligible for the new purchase of one new property together under this scheme. In addition, claims will be assessed and prioritised to provide immediate assistance to the worst-impacted property owners. Furthermore, individuals owning multiple properties (such as landlords) will only be able to make one claim for one property in a lifetime, regardless of whether it is an investment property or a personal home.  
 
 <br> <ins> Limitations of coverage: </br> </ins> 
+
 | Limitation of coverage  |
 |---|
 |Businesses, both small and large, will not be covered by this scheme as there is not enough data provided indicating how businesses impact mass displacement risk.| 
@@ -181,10 +185,11 @@ Analyses for this program have utilized the following data sources supplied by t
 * Projections of emissions scenarios with associated SSPs
 
 The following data limitations were encountered:
+
 |Property Damage Data | 
 | ------------- |
 | This was used to model housing costs however it is uncertain whether these property damage amounts related to residential properties only or whether it also encompassed commercial and public property. | 
 | It is also uncertain whether property damage amounts related solely to the severity of the catastrophic event or whether it also related to density of populations. E.g., An equally severe event may result in greater damages to property in more dense areas compared to when populations are more scattered. | 
 
 ---
-R code can be found *[here](/prelim)*
+R code can be found *[here](/ACTL4001-Supreme/prelim)*
