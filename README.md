@@ -74,7 +74,6 @@ The government must verify whether the individual/family is currently and perman
   Involuntary relocators in high and medium-risk areas:
   > - Must provide adequate proof that current property is uninhabitable after the catastrophic disaster occurs. A third party (I.e., a general insurer working with government initiatives) will also inspect the property to ensure this condition is met. 
   > - Claims will only be paid out once proof of purchase of new property or lease in a low-risk area is submitted. 
- 
 
 
 *Claims Processing Times:*  
