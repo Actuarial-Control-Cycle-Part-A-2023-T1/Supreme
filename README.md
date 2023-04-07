@@ -65,25 +65,16 @@ The government must verify whether the individual/family is currently and perman
   * Wildfire
   * Coastal Damage  
 
-  1. Proactive relocators in high-risk areas:
+  Proactive relocators in high-risk areas:
    > - Must submit adequate proof of intention to relocate. I.e., proof of purchase of new property or lease, or any other official documentation stating the individual will be residing in a low-risk area in the foreseeable future.
    > - Must also provide proof of genuine urgency and motivation for relocating.  
-  2. Proactive relocators in medium-risk areas:
+  Proactive relocators in medium-risk areas:
   > - All individuals in high-risk areas must be processed before medium-risk claims can be assessed unless a catastrophic event has occurred in that area.
   > - Once budget is allocated for high-risk areas, the same procedure as (1) occurs for medium-risk areas. 
-  3. Involuntary relocators in high and medium-risk areas:
+  Involuntary relocators in high and medium-risk areas:
   > - Must provide adequate proof that current property is uninhabitable after the catastrophic disaster occurs. A third party (I.e., a general insurer working with government initiatives) will also inspect the property to ensure this condition is met. 
   > - Claims will only be paid out once proof of purchase of new property or lease in a low-risk area is submitted. 
  
-   1. Proactive relocators in high-risk areas:
-   * Must submit adequate proof of intention to relocate. I.e., proof of purchase of new property or lease, or any other official documentation stating the individual will be residing in a low-risk area in the foreseeable future.
-   * Must also provide proof of genuine urgency and motivation for relocating.  
-  2. Proactive relocators in medium-risk areas
-  * All individuals in high-risk areas must be processed before medium-risk claims can be assessed unless a catastrophic event has occurred in that area.
-  * Once budget is allocated for high-risk areas, the same procedure as (1) occurs for medium-risk areas. 
-  4. Involuntary relocators in high and medium-risk areas:
-  * Must provide adequate proof that current property is uninhabitable after the catastrophic disaster occurs. A third party (I.e., a general insurer working with government initiatives) will also inspect the property to ensure this condition is met. 
-  * Claims will only be paid out once proof of purchase of new property or lease in a low-risk area is submitted. 
 
 
 *Claims Processing Times:*  
