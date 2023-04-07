@@ -66,19 +66,25 @@ The government must verify whether the individual/family is currently and perman
   * Coastal Damage  
 
   1. Proactive relocators in high-risk areas:
-
    > - Must submit adequate proof of intention to relocate. I.e., proof of purchase of new property or lease, or any other official documentation stating the individual will be residing in a low-risk area in the foreseeable future.
    > - Must also provide proof of genuine urgency and motivation for relocating.  
-
   2. Proactive relocators in medium-risk areas:
-
   > - All individuals in high-risk areas must be processed before medium-risk claims can be assessed unless a catastrophic event has occurred in that area.
   > - Once budget is allocated for high-risk areas, the same procedure as (1) occurs for medium-risk areas. 
-
   3. Involuntary relocators in high and medium-risk areas:
-
   > - Must provide adequate proof that current property is uninhabitable after the catastrophic disaster occurs. A third party (I.e., a general insurer working with government initiatives) will also inspect the property to ensure this condition is met. 
   > - Claims will only be paid out once proof of purchase of new property or lease in a low-risk area is submitted. 
+ 
+   1. Proactive relocators in high-risk areas:
+   * Must submit adequate proof of intention to relocate. I.e., proof of purchase of new property or lease, or any other official documentation stating the individual will be residing in a low-risk area in the foreseeable future.
+   * Must also provide proof of genuine urgency and motivation for relocating.  
+  2. Proactive relocators in medium-risk areas
+  * All individuals in high-risk areas must be processed before medium-risk claims can be assessed unless a catastrophic event has occurred in that area.
+  * Once budget is allocated for high-risk areas, the same procedure as (1) occurs for medium-risk areas. 
+  4. Involuntary relocators in high and medium-risk areas:
+  * Must provide adequate proof that current property is uninhabitable after the catastrophic disaster occurs. A third party (I.e., a general insurer working with government initiatives) will also inspect the property to ensure this condition is met. 
+  * Claims will only be paid out once proof of purchase of new property or lease in a low-risk area is submitted. 
+
 
 *Claims Processing Times:*  
 Claims for proactive relocators in high-risk areas may take between 1-3 months to be processed. Claims for proactive relocators in medium-risk areas may take between 3-9 months to be processed, subject to the level of claims received in high-risk areas. Claims for involuntary relocators in both high and medium-risk areas affected by catastrophic events may take between 1-6 months, subject to how efficiently a third party will be able to assess the claims once the region is safe to access; immediately following a catastrophic event, there may be a high volume of claims being processed so there may be longer processing times. Generally, claims processed before a catastrophic event occurs will be processed more efficiently as the number of claims can be moderated. Furthermore, once the majority of the high-risk population embrace this scheme, relocation can be conducted in a methodical manner rather than in mass.  
@@ -104,7 +110,7 @@ This program aims to provide financial aid to the group of people who are at a h
 Residents who live in regions 2 and 3 are given the priority to relocate in the event of a potential catastrophe. They are given a period of 3 months from the time of notification to relocate to a low-risk area (region 5 or 6). 
 
 I) Storslysia costs to the Social Insurance Program:
-![image](https://user-images.githubusercontent.com/73229567/229707687-082edcaa-bb74-4b42-934d-565252b1ab4a.png)l
+![image](https://user-images.githubusercontent.com/73229567/229707687-082edcaa-bb74-4b42-934d-565252b1ab4a.png)
 <br> The values above project the absolute maximum costs covered by the task force. That is, maximum costs to pay out to individuals under any conditions would be to enable 100% of high-risk populations to proactively relocate (at rates between 30-60%, in Figure 1), and for 100% of medium-risk population to be paid out as involuntary relocators (at rates between 20-50% as opposed to 10-30%). This is an overestimation of costs to ascertain with a high degree of certainty that the program will remain solvent. Note that historical costs in projections have been compounded to account for inflation; whilst inflation may not necessarily reflect the real property damage changes over time, there is greater certainty that the program remains solvent when overestimating the losses. 
 
 <br> At a 95% confidence level, the total short-term costs to be paid out across all regions, which is the required economic capital required for this scheme to remain solvent for one year period, is Ꝕ1,217,365,372. For reference, this is just 0.0921% of the 2021 GDP. Thus, the scheme is guaranteed to remain solvent.
@@ -115,7 +121,7 @@ II) Storslysia costs to the individuals without the Social Insurance Program:
 <br> The values above estimate property damage costs to the residents, whereby models for severity  and frequency   of events were generated by fitting historical hazards data. Whilst the program costs under (I) overestimate the financial impact of the program, these costs under (II) provide a more realistic view of future catastrophic event impacts. Comparing (I) and (II) for regions 1 and 4 (medium-risk areas), (II) values are higher, which implies that in medium-risk areas we may expect the program to cover a large portion of relocation costs, however, it is unavoidable that individuals will also suffer some loss until subsidy rates for these regions are raised (as discussed in the program design). Comparing (I) and (II) for regions 2 and 3 (high-risk areas), (I) values are higher, which implies that costs paid out to these regions are overestimated compared with what the residents may realistically pay so, overall, this program will ensure a much smaller portion of costs will fall unto these high-risk residents. 
 
 <br> <ins> Individual cost comparison with/without the program  </ins>
-Assume that everyone whose property (property value < Ꝕ300,000) is damaged will pay $H for housing. The material and labour costs will increase m% after weather events. The cost of replacing household goods takes g% of housing costs. (The detailed percentage coverage can be found in Figure1) 
+<br> Assume that everyone whose property (property value < Ꝕ300,000) is damaged will pay $H for housing. The material and labour costs will increase m% after weather events. The cost of replacing household goods takes g% of housing costs. (The detailed percentage coverage can be found in Figure1) 
 ![image](https://user-images.githubusercontent.com/73229567/229708757-1dfc13f9-2945-46b8-953e-12a02a1ae38a.png)
 
 		 
