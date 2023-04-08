@@ -95,7 +95,7 @@ This program aims to provide financial aid to the group of people who are at a h
 
 ## Program Costs
 <br> In this section, we compare the projected economic costs for Storslysia with and without the social insurance program in a short term (1 year) and long term (10 years) period. The projected costs incorporate inflation and climate change. Additionally, the economic cost with the program will need to satisfy the solvency requirement – not exceeding the 10% of the GDP each year, with a high degree of certainty.
-<br> Each citizen would be provided with a letter notifying them of the risk level of the region in which they reside, documented in the table below:
+<br> Each citizen would be provided with a letter notifying them of the risk level of the region in which they reside, documented in the table below:  
 ![image](https://user-images.githubusercontent.com/73229567/229707343-8925db29-b96b-47e3-9fa6-f442767bdbd7.png)   
 Residents who live in regions 2 and 3 are given the priority to relocate in the event of a potential catastrophe. They are given a period of 3 months from the time of notification to relocate to a low-risk area (region 5 or 6). 
 
