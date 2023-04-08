@@ -54,7 +54,7 @@ Note that properties valued at Ꝕ1,500,000 or more make up approximately 1.12% 
 
 Proportion of population based on property value:  
 ![image](https://user-images.githubusercontent.com/113488523/230377605-eed9a288-3946-4930-9359-1d67b848dad3.png)  
-<br> <ins> Claim requirements:  </ins> 
+<br> <ins> Claim requirements:  </ins>  
 The government must verify whether the individual/family is currently and permanently residing in a high or medium-risk area (must supply proof of minimum one year within that locale). The events covered under this scheme, based on historical occurrences, are: 
   * Flooding
   * Cyclones
