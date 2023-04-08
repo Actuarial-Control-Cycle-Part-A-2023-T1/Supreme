@@ -37,7 +37,7 @@ Proactive relocation areas of support will also be provided through government a
 
 
 <br> <ins> Deterring involuntary displacement:</ins>
-Consider two families that own properties valued at Ꝕ100,000. Family A are proactive relocators hence they will be able to purchase a home without having to replace any household items (40-75% of housing cost) nor will they be subjected to surges in labour and building costs (which are capped at 50% by law). 
+<br> Consider two families that own properties valued at Ꝕ100,000. Family A are proactive relocators hence they will be able to purchase a home without having to replace any household items (40-75% of housing cost) nor will they be subjected to surges in labour and building costs (which are capped at 50% by law).  
 However, Family B refuse to relocate, despite warnings of extreme weather events.  
 <br> The potential costs are:
 ![image](https://user-images.githubusercontent.com/113488523/229778142-6464b261-aeba-493c-bb36-8a9b1e528c13.png)
@@ -157,6 +157,7 @@ Assume that the cost for the program under favourable scenario is C.
 | Unfavourable | 1.35C |
 
 <br>The program is less sensitive against the unfavourable scenario, which will be beneficial in face of adverse events to help the program remain solvent.
+
 <br><ins> Sensitivity against the assumption for the percentage coverage: </ins>
 * current coverafe : please refer to Figure 1
 * Favourable Scenario : 20% decrease in the coverage 
