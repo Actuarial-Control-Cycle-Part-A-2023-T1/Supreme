@@ -148,7 +148,7 @@ II) Storslysia costs to the individuals without the Social Insurance Program:
 | Average  | Half population are willing to relocate in the high-risk area, <br>Half population are willing to relocate in the medium-risk area.|
 | Unfavourable   | All population are willing to relocate in the high-risk area, <br>All population are not willing to relocate in the medium-risk area.|
 
-Assume that the cost for the program under favourable scenario is C. (Detailed simulation results could be found in the Appendix)
+Assume that the cost for the program under favourable scenario is C.
 
 |Scenarios |  |
 | ------------- | ------------- |
@@ -162,7 +162,7 @@ Assume that the cost for the program under favourable scenario is C. (Detailed s
 * Favourable Scenario : 20% decrease in the coverage 
 * Unfavourable Scenario: 20% increase in the percentage coverage  
 
-Assume that the cost for the program under current scenario is V. (detailed simulation results can be found in the Appendix)
+Assume that the cost for the program under current scenario is V.
 
 |Scenarios| |
 | ------------- | ------------- |
